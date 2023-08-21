@@ -64,4 +64,4 @@ plt.plot(jhonata['caption.created_at'], jhonata['like_count'])
 plt.title('Quantidade de likes por dia/post')
 plt.xlabel('Data')
 plt.ylabel('Quantidade de likes')
-plt.sh
+plt.show()
